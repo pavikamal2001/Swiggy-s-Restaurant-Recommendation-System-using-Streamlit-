@@ -1,2 +1,3 @@
 # Swiggy-s-Restaurant-Recommendation-System-using-Streamlit-
-This project develops a restaurant recommendation system using cleaned and encoded CSV data. It applies similarity or clustering techniques to suggest restaurants based on user preferences like city, cuisine, rating, and cost, and presents results through an interactive Streamlit application.
+
+This project builds a restaurant recommendation system using CSV-based restaurant data to suggest places based on user preferences such as city, cuisine, rating, and cost. The data is cleaned, preprocessed, and categorical features are encoded to enable similarity or clustering-based recommendations. A recommendation engine (using K-Means or Cosine Similarity) identifies similar restaurants and maps results back to readable data. The system is deployed as an interactive Streamlit application for easy user input and clear recommendation display.
